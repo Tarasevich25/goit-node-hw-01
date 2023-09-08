@@ -1,4 +1,4 @@
-# goit-node-hw-01
+
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 https://monosnap.com/file/t2K2ZnHuXQIyD2NHWCKlOgQMtimlVF
 
